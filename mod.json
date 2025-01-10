@@ -1,0 +1,7 @@
+{
+    "title": "DominationMod",
+    "description": "Give every character you Dominate the Domination mutation",
+    "version": "0.0.1",
+    "author": "remghoost",
+    "dll": "DominationMod.dll"
+}
