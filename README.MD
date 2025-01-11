@@ -1,7 +1,7 @@
 # DominationMod
 
 A mod for Caves of Qud that gives Domination to anyone that you Dominate (letting you roleplay as a mind hopper).  
-It also sets the duration of Domination to `MaxInt`, which is something around 2.1 million turns.
+It also sets the duration of Domination to `int.MaxValue`, which is something around 2.1 million turns.
 
 ---
 
